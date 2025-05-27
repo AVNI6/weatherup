@@ -1,17 +1,19 @@
 🌤️ **Weather Search **
 A simple and responsive web app to search and display current weather information for any city or place using the Weatherstack API.
 
-🔍** Features**
+
+🔍**Features**
 
 1) Search weather by city/place name
 2) Shows temperature, weather condition, wind speed, and humidity
 3) Responsive design — works on mobile and desktop
 4) Clean UI with blue gradient background
 
-🚀** Live Demo**
+🚀**Live Demo**
 https://weatherup.tiiny.site
 
-🔧 **Tech Stack **- HTML, CSS, JavaScript, Weatherstack API
+🔧 **Tech Stack**- HTML, CSS, JavaScript, Weatherstack API
+
 
 🛠️ **How to Use**
 
